@@ -17,4 +17,9 @@ System.out.println("Test2 is completed...");
 public void tes3() {
 System.out.println("Test3 is completed...");	
 }
+
+@Test
+public void tes4() {
+System.out.println("Test4 is completed...");	
+}
 }
