@@ -20,6 +20,6 @@ System.out.println("Test3 is completed...");
 
 @Test
 public void tes4() {
-System.out.println("Test4 is completed...");;;;	
+System.out.println("Test4 is completed...");;;;	;;
 }
 }
